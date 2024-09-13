@@ -1,0 +1,1 @@
+file://xn--%20skrypt%20obsugujcy%20kliknicie%20w%20przyciskdocument-fhg58iw9d.getelementbyid("clickbutton").xn--addeventlistener("click",%20function()%20{%20%20%20%20alert("dzikujemy%20za%20kliknicie!");});-e6lu/
